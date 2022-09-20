@@ -1,6 +1,6 @@
 # CPSC-483-Introduction-to-Machine-Learning
 Projects completed for CPSC 483 Introduction to Machine Learning Course at CSUF during the fall 2021 Semester.
-Completed by myself, and my team member Zachary Serna.
+Completed by myself, and my team member Zachary.
 
 Project 1 consisted of familiarize ourselves with Python and Jupyter by implementing some rudimentary algorithms for outlier detection.
 
